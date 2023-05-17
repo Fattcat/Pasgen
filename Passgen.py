@@ -18,4 +18,4 @@ def LenghtPassSESNAST():
 lenght = 9
 Pridavac = lower_case + UPPER_CASE + symbols + numbs
 PSSWD = "".join(random.sample(Pridavac, lenght))
-print("Vase nove heslo je : ", PSWD)
+print("Vase nove heslo je:", PSSWD)
